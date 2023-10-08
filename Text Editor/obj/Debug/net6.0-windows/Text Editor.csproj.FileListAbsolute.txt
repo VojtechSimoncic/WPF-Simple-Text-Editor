@@ -19,3 +19,24 @@ D:\VisualStudio\Text Editor\Text Editor\obj\Debug\net6.0-windows\refint\Text Edi
 D:\VisualStudio\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.pdb
 D:\VisualStudio\Text Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.genruntimeconfig.cache
 D:\VisualStudio\Text Editor\Text Editor\obj\Debug\net6.0-windows\ref\Text Editor.dll
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.exe
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.deps.json
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.runtimeconfig.json
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.dll
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\bin\Debug\net6.0-windows\Text Editor.pdb
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.AssemblyReference.cache
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor_MarkupCompile.cache
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor_MarkupCompile.lref
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.g.resources
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.AssemblyInfoInputs.cache
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.AssemblyInfo.cs
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.dll
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\refint\Text Editor.dll
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.pdb
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\Text Editor.genruntimeconfig.cache
+C:\Users\vojte\OneDrive\Dokumenty\GitHub\WPF-Simple-Text-Editor\Text Editor\obj\Debug\net6.0-windows\ref\Text Editor.dll

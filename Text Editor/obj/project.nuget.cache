@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yadyQpF2W8XlX63p81Z8rt0+LKbxg8u8PMzPFSaXqtFC8D4a9+qwo4+v2o/CNKSoVKRcjm+YTq0X0WQTxbIXJQ==",
+  "dgSpecHash": "fk0ymu6PzE8GFsbDS6y+IJ2OYYtQLAcIiT9k9U0d3QxPudK9BTfVVVfgZWkSPPaZoLh4gQStOdd1XaKgl5Okag==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio\\Text Editor\\Text Editor\\Text Editor.csproj",
+  "projectFilePath": "C:\\Users\\vojte\\OneDrive\\Dokumenty\\GitHub\\WPF-Simple-Text-Editor\\Text Editor\\Text Editor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

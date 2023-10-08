@@ -13,17 +13,9 @@
 
     <Window.Resources>
         <Style TargetType="Button">
-
             <Setter Property="BorderBrush" Value="Transparent"/>
             <Setter Property="Background" Value="#001014"/>
             <Setter Property="Foreground" Value="White"/>
-            
-            <Style.Triggers>
-                <Trigger Property="IsMouseDirectlyOver" Value="True">
-                    <Setter Property="Background" Value="Transparent"/>
-                    <Setter Property="BorderBrush" Value="Transparent"/>
-                </Trigger>
-            </Style.Triggers>
         </Style>
 
         <Style TargetType="Grid">
@@ -59,7 +51,6 @@
 
         <ComboBox x:Name="comboBox"
                   SelectionChanged="FontSizeComboBox"
-                  IsEditable="True"
                   Height="20"
                   Width="50"
                   VerticalAlignment="Center"
@@ -76,15 +67,14 @@
                  VerticalScrollBarVisibility="Auto"
                  AcceptsReturn="True"
                  Grid.Row="1"
-                 Height="340"
-                 Width="750"
                  Background="#001014"
                  BorderThickness="0"
                  Foreground="White"
                  HorizontalAlignment="Stretch"
                  VerticalAlignment="Stretch"
                  MinHeight="340"
-                 MinWidth="750">
+                 MinWidth="750"
+                 Margin="25">
 
         </TextBox>
     </Grid>

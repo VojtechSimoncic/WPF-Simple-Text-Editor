@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudio\\Text Editor\\Text Editor\\Text Editor.csproj": {}
+    "C:\\Users\\vojte\\OneDrive\\Dokumenty\\GitHub\\WPF-Simple-Text-Editor\\Text Editor\\Text Editor.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudio\\Text Editor\\Text Editor\\Text Editor.csproj": {
+    "C:\\Users\\vojte\\OneDrive\\Dokumenty\\GitHub\\WPF-Simple-Text-Editor\\Text Editor\\Text Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio\\Text Editor\\Text Editor\\Text Editor.csproj",
+        "projectUniqueName": "C:\\Users\\vojte\\OneDrive\\Dokumenty\\GitHub\\WPF-Simple-Text-Editor\\Text Editor\\Text Editor.csproj",
         "projectName": "Text Editor",
-        "projectPath": "D:\\VisualStudio\\Text Editor\\Text Editor\\Text Editor.csproj",
+        "projectPath": "C:\\Users\\vojte\\OneDrive\\Dokumenty\\GitHub\\WPF-Simple-Text-Editor\\Text Editor\\Text Editor.csproj",
         "packagesPath": "C:\\Users\\vojte\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio\\Text Editor\\Text Editor\\obj\\",
+        "outputPath": "C:\\Users\\vojte\\OneDrive\\Dokumenty\\GitHub\\WPF-Simple-Text-Editor\\Text Editor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
